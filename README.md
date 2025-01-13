@@ -1,6 +1,6 @@
 # LCD 1602 Driver library for the  module for STM32
 
-![DHT11](https://img.shields.io/badge/Module-DHT11-blue)
+![LCD1602](https://img.shields.io/badge/Module-LCD1602-blue)
 ![STM32](https://img.shields.io/badge/Microcontroller-STM32-white)
 ![Project Status](https://img.shields.io/badge/Project-Finished-brightgreen)
 
