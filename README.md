@@ -15,7 +15,7 @@ Driver library for the LCD 1602 module for STM32 microcontrollers
 4. In lcd_1602_driver.h set LCD_ADDRESS to the correct address for your specific LCD 1602 module (Be mindful of bit shift)
 5. In lcd_1602_driver.h set "stm32f4xx_hal.h" to the correct STM32 board you are using
 6. Implement Code
-7. (Optional) Consult datasheet to change init_lcd_function to change things like column count. Note different modals will have different features and functions.
+7. (Optional) Consult datasheet to adjust init_lcd_function to change things like column count. Note different models will have different features and functions.
 
 ### Code Implementation
 ```c
